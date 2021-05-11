@@ -1,0 +1,10 @@
+name: RconR
+version: ${project.version}
+main: ua.lokha.rconreload.Main
+
+# Кодил это? Впиши себя сам
+authors: [lokha]
+
+commands:
+  rconreload:
+    permission: rconreload.command
